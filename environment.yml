@@ -7,8 +7,8 @@ channels:
     - jjhelmus
     - soumith
 dependencies:
-    - python==3.5.2
-    - numpy==1.14.0
+    - python
+    - numpy
     - scipy
     - path.py
     - python-dateutil
